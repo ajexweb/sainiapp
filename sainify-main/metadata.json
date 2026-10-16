@@ -1,0 +1,6 @@
+{
+  "name": "Sainify - Mobile-First Digital Study Board",
+  "description": "Mobile-first digital study and teaching board for teachers and students to annotate notes, navigate pages, and create educational videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
